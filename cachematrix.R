@@ -1,4 +1,4 @@
-# Solve function returns the inverse of a matrix, cached in makeCacheMatrix.
+# Solve function returns the inverse of a matrix, using a cache in makeCacheMatrix function.
 
 # makeCacheMatrix takes a matrix as an argument and returns a list of functions.
 # It sets and stores a matrix, then computes its inverse and caches it.
